@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\flowers\\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\uploads\\flowers\\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\uploads\\flowers\\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Flowers.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Flowers.Api.props",
+      "PackagePath": "build\\Flowers.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Flowers.Api.props",
+      "PackagePath": "buildMultiTargeting\\Flowers.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Flowers.Api.props",
+      "PackagePath": "buildTransitive\\Flowers.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

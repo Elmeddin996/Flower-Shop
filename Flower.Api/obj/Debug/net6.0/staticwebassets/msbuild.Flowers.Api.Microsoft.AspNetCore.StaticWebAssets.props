@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Flowers.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Flowers.Api</BasePath>
+      <RelativePath>uploads/flowers/00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Flowers.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Flowers.Api</BasePath>
+      <RelativePath>uploads/flowers/2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Flowers.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Flowers.Api</BasePath>
+      <RelativePath>uploads/flowers/77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\flowers\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

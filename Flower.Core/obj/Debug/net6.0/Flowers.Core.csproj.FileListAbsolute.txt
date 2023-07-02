@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\bin\Debug\net6.0\Flowers.Core.deps.json
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\bin\Debug\net6.0\Flowers.Core.dll
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\bin\Debug\net6.0\Flowers.Core.pdb
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.dll
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\refint\Flowers.Core.dll
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\Flowers.Core.pdb
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Core\obj\Debug\net6.0\ref\Flowers.Core.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "VovrjGwZqtItf1Dj9BKkViJyBpbC1E5slicQ0gF8aw4=",
+  "Source": "Flowers.Api",
+  "BasePath": "_content/Flowers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Flowers.Api\\wwwroot",
+      "Source": "Flowers.Api",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\",
+      "BasePath": "_content/Flowers.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg",
+      "SourceId": "Flowers.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\",
+      "BasePath": "_content/Flowers.Api",
+      "RelativePath": "uploads/flowers/00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\flowers\\00aeae64-be66-40ca-94f6-7f3511fadfca4e70a2c9-f3b2-4997-bf57-f4d779358219download.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg",
+      "SourceId": "Flowers.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\",
+      "BasePath": "_content/Flowers.Api",
+      "RelativePath": "uploads/flowers/2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\flowers\\2de9fa0f-f7a3-4276-b344-8ece117505bc1e5fd01a-ea0c-48c4-880b-16545e22fff91-7-270x300.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\uploads\\flowers\\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg",
+      "SourceId": "Flowers.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\FlowerShop\\Flower.Api\\wwwroot\\",
+      "BasePath": "_content/Flowers.Api",
+      "RelativePath": "uploads/flowers/77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\flowers\\77fe3aae-c50b-49f7-9575-2bcd93eb87c02c1f1a60-2c01-416a-a6f4-93cd7c3ec14c1-7-270x300.jpg"
+    }
+  ]
+}

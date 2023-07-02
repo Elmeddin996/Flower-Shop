@@ -1,0 +1,12 @@
+C:\Users\User\FlowerShop\Flower.Core\bin\Debug\net7.0\Flower.Core.deps.json
+C:\Users\User\FlowerShop\Flower.Core\bin\Debug\net7.0\Flower.Core.dll
+C:\Users\User\FlowerShop\Flower.Core\bin\Debug\net7.0\Flower.Core.pdb
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.csproj.AssemblyReference.cache
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.AssemblyInfoInputs.cache
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.AssemblyInfo.cs
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.dll
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\refint\Flower.Core.dll
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\Flower.Core.pdb
+C:\Users\User\FlowerShop\Flower.Core\obj\Debug\net7.0\ref\Flower.Core.dll

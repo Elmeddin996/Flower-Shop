@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\FlowerShop\Flower.Api\obj\Debug\net6.0\Flower.Api.MvcApplicationPartsAssemblyInfo.cache
