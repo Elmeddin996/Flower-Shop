@@ -1,0 +1,38 @@
+﻿@model List<CategoryGetAllResponse>
+@{
+    ViewData["Title"] = "Index";
+    int order = 0;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <a class="btn btn-primary" asp-action="create">Create</a>
+        </div>
+        <div class="col-md-8">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   @foreach (var item in Model)
+                    {
+                        order++;
+                        <tr>
+                        <th scope="row">@order</th>
+                        <td>@item.Name</td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="edit" asp-route-id="@item.Id">Edit</a>
+                            <a class="btn btn-danger delete-btn" asp-action="delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

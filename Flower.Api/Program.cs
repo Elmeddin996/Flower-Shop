@@ -17,6 +17,7 @@ using Flowers.Api.Services;
 using Flowers.Core.Entities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Flowers.Api.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers()
@@ -137,5 +138,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.UseStaticFiles();
 app.MapControllers();
+
+app.UseMiddleware<ErrorHandlingMiddleware>();
 
 app.Run();
